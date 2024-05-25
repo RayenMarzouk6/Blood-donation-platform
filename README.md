@@ -12,9 +12,10 @@ The functional requirements for the blood donation website encompass user and ad
 ![Capture d'écran 2024-05-20 143728](https://github.com/RayenMarzouk6/Blood-donation-platform/assets/162569033/14f3873e-4b7d-47bc-b0b2-af8050fe0df6)
 
 2. **Class diagram**:
+3. 
 ![Capture d'écran 2024-05-20 143709](https://github.com/RayenMarzouk6/Blood-donation-platform/assets/162569033/4066c6c4-c0bd-4463-bb44-7f119dcd5fca)
 
-3. **Sequence diagrams**:
+4. **Sequence diagrams**:
 
 
 
